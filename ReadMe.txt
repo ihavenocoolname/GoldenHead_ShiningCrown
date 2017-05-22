@@ -15,6 +15,6 @@ WHAT TO DO NEXT:
 
 -Pedometer data seems to be the most obvious, reliable method for inferring periods that require attention.
 
--Look for statistically significant correlations with pedometer readings
+-Look for statistically significant correlations with pedometer readings vs other data points
 
 -matplotlib is your friend
